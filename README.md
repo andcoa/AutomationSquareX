@@ -14,9 +14,9 @@ Build a functional SOC automation lab integrating SquareX for browser-based thre
 
 ## Tools Used
 
-**SquareX**: Browser extension for privacy-enhanced browsing and disposable file analysis.
-**TheHive**: Open-source SOC case management and alert triage system.
-**Gmail**: Source of suspicious emails and phishing attempts.
-**SOC Automation Scripts**: Custom and open-source scripts to simulate alert ingestion.
+- **SquareX**: Browser extension for privacy-enhanced browsing and disposable file analysis.
+- **TheHive**: Open-source SOC case management and alert triage system.
+- **Gmail**: Source of suspicious emails and phishing attempts.
+- **SOC Automation Scripts**: Custom and open-source scripts to simulate alert ingestion.
 
 ## Steps
