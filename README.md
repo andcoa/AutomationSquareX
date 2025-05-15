@@ -24,4 +24,4 @@ Build a functional SOC automation lab integrating SquareX for browser-based thre
 
 Build a logical diagram using Draw.io to map out the data flow:
 
-![image](https://github.com/user-attachments/assets/4267942b-211c-48e6-93bf-3d95a8b42191)
+![image](https://github.com/user-attachments/assets/63c1d6c4-1405-4175-ae02-412a3508dd2c)
