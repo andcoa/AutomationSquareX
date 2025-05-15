@@ -20,7 +20,7 @@ Build a functional SOC automation lab integrating SquareX for browser-based thre
 - **Wazuh**: Open-source SIEM for endpoint detection, file integrity monitoring, and log analysis.
 - **Digital Ocean**: Cloud provider used to deploy Wazuh and TheHive on.
 - **SOC Automation Scripts**: Custom and open-source scripts to simulate alert ingestion.
-- 
+  
 ## Steps
 
 Build a logical diagram using Draw.io to map out the data flow:
