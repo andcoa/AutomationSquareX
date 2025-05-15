@@ -19,4 +19,9 @@ Build a functional SOC automation lab integrating SquareX for browser-based thre
 - **Gmail**: Source of suspicious emails and phishing attempts.
 - **SOC Automation Scripts**: Custom and open-source scripts to simulate alert ingestion.
 - **Wazuh**: Open-source SIEM for endpoint detection, file integrity monitoring, and log analysis.
+ 
 ## Steps
+
+Build a logical diagram using Draw.io to map out the data flow:
+
+![image](https://github.com/user-attachments/assets/4267942b-211c-48e6-93bf-3d95a8b42191)
