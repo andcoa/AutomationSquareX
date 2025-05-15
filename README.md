@@ -17,10 +17,10 @@ Build a functional SOC automation lab integrating SquareX for browser-based thre
 - **SquareX**: Browser extension for privacy-enhanced browsing and disposable file analysis.
 - **TheHive**: Open-source SOC case management and alert triage system.
 - **Gmail**: Source of suspicious emails and phishing attempts.
-- **SOC Automation Scripts**: Custom and open-source scripts to simulate alert ingestion.
 - **Wazuh**: Open-source SIEM for endpoint detection, file integrity monitoring, and log analysis.
 - **Digital Ocean**: Cloud provider used to deploy Wazuh and TheHive on.
- 
+- **SOC Automation Scripts**: Custom and open-source scripts to simulate alert ingestion.
+- 
 ## Steps
 
 Build a logical diagram using Draw.io to map out the data flow:
