@@ -2,7 +2,7 @@
 
 ## Objective
 
-Build a functional SOC automation lab integrating SquareX for browser-based threat containment, Wazuh for endpoint detection and telemetry collection, Gmail for phishing analysis, and TheHive for case management, demonstrating end-to-end alert triage and secure investigation workflows.
+Build a functional SOC automation lab integrating SquareX for browser-based threat containment, Wazuh for endpoint detection and telemetry collection, Gmail for phishing analysis, TheHive for case management and Digital Ocean as the cloud provider, demonstrating end-to-end alert triage and secure investigation workflows.
 
 ## Skills Learned
 
@@ -19,6 +19,7 @@ Build a functional SOC automation lab integrating SquareX for browser-based thre
 - **Gmail**: Source of suspicious emails and phishing attempts.
 - **SOC Automation Scripts**: Custom and open-source scripts to simulate alert ingestion.
 - **Wazuh**: Open-source SIEM for endpoint detection, file integrity monitoring, and log analysis.
+- **Digital Ocean**: Cloud provider used to deploy Wazuh and TheHive on.
  
 ## Steps
 
