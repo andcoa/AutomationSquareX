@@ -23,6 +23,20 @@ Build a functional SOC automation lab integrating SquareX for browser-based thre
   
 ## Steps
 
-Build a logical diagram using Draw.io to map out the data flow:
+Built a logical diagram using Draw.io to map out the data flow:
 
 ![image](https://github.com/user-attachments/assets/63c1d6c4-1405-4175-ae02-412a3508dd2c)
+
+Created a "droplet" on Digital Ocean to begin the deployment of the Wazuh Server:
+
+![image](https://github.com/user-attachments/assets/0b427d25-08e2-4b3b-b0e0-4b1ed4b19f76)
+
+Set region as Toronto.
+
+![image](https://github.com/user-attachments/assets/323f544a-40a7-4152-beb8-9d6dacd7547e)
+
+Chose the Ubuntu OS option using an Intel CPU with 8GB of RAM:
+
+![image](https://github.com/user-attachments/assets/4b2b021c-d4d8-4e82-baaf-954e0cf7f251)
+
+
