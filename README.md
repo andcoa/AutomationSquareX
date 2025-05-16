@@ -39,4 +39,7 @@ Chose the Ubuntu OS option using an Intel CPU with 8GB of RAM:
 
 ![image](https://github.com/user-attachments/assets/4b2b021c-d4d8-4e82-baaf-954e0cf7f251)
 
+Named the Host "Wazuh"
+
+![image](https://github.com/user-attachments/assets/6ca3de82-dd38-4ecf-8988-641784b63563)
 
