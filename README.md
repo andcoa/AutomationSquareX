@@ -77,5 +77,11 @@ Installed Wazuh with the following command:
 
 ![image](https://github.com/user-attachments/assets/15c6ca51-259e-4fd5-8f82-2059a989915c)
 
+Accessed Wazuh by going to the IP of the Wazuh VM:
+
+![image](https://github.com/user-attachments/assets/7945299f-c6fc-4b52-8f08-94aa4c7333bf)
+
+![image](https://github.com/user-attachments/assets/4d6a31cc-bd94-4d28-9343-1697094c6212)
+
 
 
