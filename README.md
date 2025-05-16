@@ -89,3 +89,9 @@ Created a new VM that will be used for installing TheHive and added it to the fi
 
 ![image](https://github.com/user-attachments/assets/02e65512-1296-48db-9237-4c7ef45c7370)
 
+In TheHive VM, the following dependencies were installed:
+
+![image](https://github.com/user-attachments/assets/fd5268fb-3141-4b1f-ba75-0492148b788e)
+
+![image](https://github.com/user-attachments/assets/e71856e0-46aa-4e98-9c1f-22835ef98fbc)
+
