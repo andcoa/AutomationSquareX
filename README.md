@@ -47,4 +47,23 @@ Successfully created the Wazuh machine.
 
 ![image](https://github.com/user-attachments/assets/fe8e849a-08f7-4e89-bdd1-687ed9e2e681)
 
+Started the creation of a firewall.
+
+![image](https://github.com/user-attachments/assets/3d5310dd-4ac0-4a7f-8d17-bf324a4c7714)
+
+Added my host's IP to the Inbound Rules so I can access the machine.
+
+![image](https://github.com/user-attachments/assets/c4f3b26e-b19b-48de-b752-38fb2ee4b318)
+
+Created the firewall.
+
+![image](https://github.com/user-attachments/assets/7f013b3e-3b4d-4c07-8fd5-867d33ae0e2c)
+
+Added the Wazuh machine to the firewall.
+
+![image](https://github.com/user-attachments/assets/d94b43cd-41af-4edb-94e5-2cb24c74da8d)
+
+![image](https://github.com/user-attachments/assets/094e93ae-9874-4f3f-9513-021b7cac1060)
+
+
 
