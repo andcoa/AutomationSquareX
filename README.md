@@ -83,5 +83,9 @@ Accessed Wazuh by going to the IP of the Wazuh VM:
 
 ![image](https://github.com/user-attachments/assets/4d6a31cc-bd94-4d28-9343-1697094c6212)
 
+Created a new VM that will be used for installing TheHive and added it to the firewall:
 
+![image](https://github.com/user-attachments/assets/1de464cd-d816-46c9-af8e-89abe1c42da2)
+
+![image](https://github.com/user-attachments/assets/02e65512-1296-48db-9237-4c7ef45c7370)
 
