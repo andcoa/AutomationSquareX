@@ -65,5 +65,17 @@ Added the Wazuh machine to the firewall.
 
 ![image](https://github.com/user-attachments/assets/094e93ae-9874-4f3f-9513-021b7cac1060)
 
+Accessed the Wazuh VM by launching it through the Droplet console:
+
+![image](https://github.com/user-attachments/assets/f9e32b4e-61f1-4705-a9e8-526d82d92027)
+
+Updated the Wazuh VM with the following command:
+
+![image](https://github.com/user-attachments/assets/ace1b470-4245-4a7f-88d6-692e5a199568)
+
+Installed Wazuh with the following command:
+
+![image](https://github.com/user-attachments/assets/15c6ca51-259e-4fd5-8f82-2059a989915c)
+
 
 
