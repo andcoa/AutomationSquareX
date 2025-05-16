@@ -43,3 +43,6 @@ Named the Host "Wazuh"
 
 ![image](https://github.com/user-attachments/assets/6ca3de82-dd38-4ecf-8988-641784b63563)
 
+Successfully created the Wazuh machine
+
+![image](https://github.com/user-attachments/assets/fe8e849a-08f7-4e89-bdd1-687ed9e2e681)
