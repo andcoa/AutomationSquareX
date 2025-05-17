@@ -182,6 +182,12 @@ Copied the following command over to a Windows 10 VM hosted locally to install t
 
 ![image](https://github.com/user-attachments/assets/71b3118a-ea08-4e4c-b631-edf24605f59a)
 
-![image](https://github.com/user-attachments/assets/a5f46a80-f437-4885-bc03-13723b186dff)
+![image](https://github.com/user-attachments/assets/fd00a3c4-b5d7-48fb-9ff0-4735eefbeb84)
+
+![image](https://github.com/user-attachments/assets/25031244-34bb-4119-b9a9-38496f353c8a)
+
+The agent is now available in Wazuh.
+
+![image](https://github.com/user-attachments/assets/3c845b04-ef49-4dc3-b7c5-42efacf0ebe4)
 
 
