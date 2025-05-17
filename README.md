@@ -107,7 +107,7 @@ Configured Cassandra in TheHive VM. First, changed the cluser_name to "autolab" 
 
 Changed the listen address to the public IP of TheHive VM.
 
-![image](https://github.com/user-attachments/assets/ce03b5d0-eb5d-4c78-8625-d0b748d07887)
+![image](https://github.com/user-attachments/assets/5fc41027-1e86-4dfe-a527-78559e5458c6)
 
 Changed the RPC address.
 
