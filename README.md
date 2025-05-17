@@ -157,4 +157,7 @@ Changed the hostname and application.baseUrl values to TheHive VM's IP, and the 
 
 ![image](https://github.com/user-attachments/assets/4f6eaa43-db27-4477-b741-3c0fb39ff83f)
 
+Started and enabled TheHive.
+
+![image](https://github.com/user-attachments/assets/4a1bee77-50a3-46e0-8bec-12cb883f041d)
 
