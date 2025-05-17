@@ -101,7 +101,9 @@ Successfully installed TheHive.
 
 ![image](https://github.com/user-attachments/assets/35aab89a-3d96-4d7a-b0a2-7e4439f3d5b2)
 
-Configured Cassandra in TheHive VM. First, changed the cluser_name to "autolab" using the nano command to edit the yaml file.
+Configured Cassandra in TheHive VM. 
+
+First, changed the cluser_name to "autolab" using the nano command to edit the yaml file.
 
 ![image](https://github.com/user-attachments/assets/d90718de-8b6a-413e-8c92-4f3b6122a497)
 
@@ -113,3 +115,6 @@ Changed the RPC address.
 
 ![image](https://github.com/user-attachments/assets/651eed1c-b6c1-4c72-bc9e-70035f58bfe8)
 
+Changed the seed address.
+
+![image](https://github.com/user-attachments/assets/0a7d4e15-bbce-4c17-8daf-9d1fde902b5d)
