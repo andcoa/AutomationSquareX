@@ -153,8 +153,8 @@ Configured TheHive configuration file.
 
 ![image](https://github.com/user-attachments/assets/c27f056b-bd04-472c-bd54-2806b17c138c)
 
-Changed the hostname values to TheHive VM's IP, and the cluster-name to "autolab" (same as the cluster defined in Cassandra).
+Changed the hostname and application.baseUrl values to TheHive VM's IP, and the cluster-name to "autolab" (same as the cluster defined in Cassandra).
 
-![image](https://github.com/user-attachments/assets/6c6f16dc-67d6-4581-8947-9c659c5532fb)
+![image](https://github.com/user-attachments/assets/4f6eaa43-db27-4477-b741-3c0fb39ff83f)
 
 
