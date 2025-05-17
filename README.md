@@ -93,7 +93,7 @@ On TheHive VM, installed dependencies, Java, Cassandra, Elasticsearch and TheHiv
 
 ![image](https://github.com/user-attachments/assets/e71856e0-46aa-4e98-9c1f-22835ef98fbc)
 
-Example of the Java commands, repeated the same for the rest:
+Example of the Java commands, repeated the same for the rest.
 
 ![image](https://github.com/user-attachments/assets/102da442-d1b7-413e-8a61-05d731a43679)
 
@@ -101,4 +101,15 @@ Successfully installed TheHive.
 
 ![image](https://github.com/user-attachments/assets/35aab89a-3d96-4d7a-b0a2-7e4439f3d5b2)
 
+Configured Cassandra in TheHive VM. First, changed the cluser_name to "autolab" using the nano command to edit the yaml file.
+
+![image](https://github.com/user-attachments/assets/d90718de-8b6a-413e-8c92-4f3b6122a497)
+
+Changed the listen address to the public IP of TheHive VM.
+
+![image](https://github.com/user-attachments/assets/ce03b5d0-eb5d-4c78-8625-d0b748d07887)
+
+Changed the RPC address.
+
+![image](https://github.com/user-attachments/assets/651eed1c-b6c1-4c72-bc9e-70035f58bfe8)
 
