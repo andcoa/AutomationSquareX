@@ -169,3 +169,19 @@ Note: To access TheHive, the VM's IP must be used with HTTP and not HTTPS.
 
 ![image](https://github.com/user-attachments/assets/1c0c5103-c71f-4c7f-a80d-156c5e682705)
 
+Added an agent to Wazuh.
+
+![image](https://github.com/user-attachments/assets/08a33a30-df79-4c07-8c6f-19838ac4a503)
+
+
+Used the IP of the WazuhVM and assigned it a custom name.
+
+![image](https://github.com/user-attachments/assets/6db5e51f-b82f-4f6a-9afb-19d895fa13ca)
+
+Copied the following command over to a Windows 10 VM hosted locally to install the agent:
+
+![image](https://github.com/user-attachments/assets/71b3118a-ea08-4e4c-b631-edf24605f59a)
+
+![image](https://github.com/user-attachments/assets/a5f46a80-f437-4885-bc03-13723b186dff)
+
+
