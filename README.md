@@ -161,3 +161,10 @@ Started and enabled TheHive.
 
 ![image](https://github.com/user-attachments/assets/4a1bee77-50a3-46e0-8bec-12cb883f041d)
 
+Successfully accessed TheHive using the default credentials.
+Note: To access TheHive, the VM's IP must be used with after HTTP and not HTTPS.
+
+![image](https://github.com/user-attachments/assets/5c25dc05-a267-4430-ac88-6968e4791a98)
+
+![image](https://github.com/user-attachments/assets/1c0c5103-c71f-4c7f-a80d-156c5e682705)
+
