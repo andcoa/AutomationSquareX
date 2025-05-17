@@ -118,3 +118,27 @@ Changed the RPC address.
 Changed the seed address.
 
 ![image](https://github.com/user-attachments/assets/0a7d4e15-bbce-4c17-8daf-9d1fde902b5d)
+
+Stopped the Cassandra service and removed old installation files that came with the package.
+
+![image](https://github.com/user-attachments/assets/7ef5a285-5aee-4722-9023-d91b542a2cd4)
+
+Started Cassandra and ensured the service is running correctly.
+
+![image](https://github.com/user-attachments/assets/22200bad-191e-46ec-8fab-ef2cfc9bd6d1)
+
+Configured Elasticsearch to manage data indices (querying data).
+
+![image](https://github.com/user-attachments/assets/ba7910e6-d90a-47cf-bdee-b975ccceb2db)
+
+Removed the comments (#) for cluster.name and node.name, changing the default value to cluster.name: thehive and left node.name as default.
+
+![image](https://github.com/user-attachments/assets/ae7598b6-bd40-42a8-8aae-95a0bd2f7d50)
+
+Removed the comments for network.host, http.port and cluster.intial_master_nodes.
+
+Changed the default value to TheHive VM's IP for network.host. Removed "node-2" from the cluster.initial_master_nodes and left http.port to default value.
+
+![image](https://github.com/user-attachments/assets/14e2d79e-a8cf-4b3b-a38d-b3a54059fee7)
+
+
