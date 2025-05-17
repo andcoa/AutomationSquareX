@@ -141,4 +141,20 @@ Changed the default value to TheHive VM's IP for network.host. Removed "node-2" 
 
 ![image](https://github.com/user-attachments/assets/14e2d79e-a8cf-4b3b-a38d-b3a54059fee7)
 
+Started and enabled Elasticsearch:
+
+![image](https://github.com/user-attachments/assets/4ced8808-f712-4e8b-bf06-c2e2192e4cd7)
+
+Changed ownership to "thehive" user and group from "root" in order to ensure access for the configuration of TheHive.
+
+![image](https://github.com/user-attachments/assets/b0ec6cf5-cef0-4403-9dd3-45c33737600c)
+
+Configured TheHive configuration file.
+
+![image](https://github.com/user-attachments/assets/c27f056b-bd04-472c-bd54-2806b17c138c)
+
+Changed the hostname values to TheHive VM's IP, and the cluster-name to "autolab" (same as the cluster defined in Cassandra).
+
+![image](https://github.com/user-attachments/assets/6c6f16dc-67d6-4581-8947-9c659c5532fb)
+
 
