@@ -190,4 +190,20 @@ The agent is now available in Wazuh.
 
 ![image](https://github.com/user-attachments/assets/3c845b04-ef49-4dc3-b7c5-42efacf0ebe4)
 
+Configured the "ossec.conf" file on the Windows 10 VM to ingest Sysmon logs in Wazuh.
+
+![image](https://github.com/user-attachments/assets/1ae53556-4ba7-4017-b19d-7fd2e8d86770)
+
+Copied the Sysmon name found in Event Viewer to the ossec.conf file.
+
+![image](https://github.com/user-attachments/assets/730aa0ea-43c7-4521-af6f-cce2aceb7ff7)
+
+![image](https://github.com/user-attachments/assets/f36c542f-4a64-4559-8f36-54670a46b553)
+
+Removed the Application, Security and System locations for ingestion purposes. Application was removed by pasting the Sysmon name over it.
+
+![image](https://github.com/user-attachments/assets/c07e6266-3b38-4309-9ba9-2d9cd6682bf1)
+
+
+
 
