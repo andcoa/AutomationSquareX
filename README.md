@@ -97,5 +97,8 @@ Example of the Java commands, repeated the same for the rest:
 
 ![image](https://github.com/user-attachments/assets/102da442-d1b7-413e-8a61-05d731a43679)
 
+Successfully installed TheHive.
+
+![image](https://github.com/user-attachments/assets/35aab89a-3d96-4d7a-b0a2-7e4439f3d5b2)
 
 
