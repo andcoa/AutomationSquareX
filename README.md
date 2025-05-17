@@ -204,6 +204,9 @@ Removed the Application, Security and System locations for ingestion purposes. A
 
 ![image](https://github.com/user-attachments/assets/c07e6266-3b38-4309-9ba9-2d9cd6682bf1)
 
+Restarted Wazuh to apply the changes.
+
+![image](https://github.com/user-attachments/assets/3856ce65-fc63-483d-bcde-6416de3b7f90)
 
 
 
