@@ -264,7 +264,7 @@ Created a rule in Wazuh -> Management -> Rules -> Rules Files by copying and mod
 
 Created the rule by editing the local_rules.xml file in Custom Rules with the following, assigning it the MITRE id of T1003 (logon detected):
 
-![image](https://github.com/user-attachments/assets/160278b6-e0ff-437d-ab60-66c90d077821)
+![image](https://github.com/user-attachments/assets/df57152e-0776-42f6-b441-a9d92b08d0e0)
 
 To test the new rule, the "mimikatz" executable was renamed to "youareawesome".
 
