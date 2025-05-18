@@ -246,8 +246,11 @@ In Wazuh -> Stack Management -> Index Patterns, created an index for all archive
 
 ![image](https://github.com/user-attachments/assets/4242477f-ddf2-483f-987f-733bd9ac3eb9)
 
-Successfully set up the "wazuh-archives**" index
+Successfully set up the "wazuh-archives**" index.
 
 ![image](https://github.com/user-attachments/assets/fd73b134-49f5-4b5d-82b6-8457d83aa509)
 
+Re-ran Mimikatz and 2 logs appeared in Wazuh.
+
+![image](https://github.com/user-attachments/assets/9e5dc409-7847-4422-bb4b-7fc7e30a13f1)
 
