@@ -262,6 +262,6 @@ Created a rule in Wazuh -> Management -> Rules -> Rules Files by copying and mod
 
 ![image](https://github.com/user-attachments/assets/b44a87a2-eb2f-4ddd-95aa-91122a5c3915)
 
-Edited the local_rules.xml file in Custom Rules with the following, assigning it the MITRE id of T1003 (logon detected):
+Created the rule by editing the local_rules.xml file in Custom Rules with the following, assigning it the MITRE id of T1003 (logon detected):
 
 ![image](https://github.com/user-attachments/assets/6634c282-b76b-483e-913c-bc9b8210215c)
