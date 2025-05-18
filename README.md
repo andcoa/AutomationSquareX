@@ -314,3 +314,11 @@ In order to write the Regex, used ChatGPT to get the command based on the follow
 
 ![image](https://github.com/user-attachments/assets/e20be0ac-da99-45b9-b7c1-811416fab8d9)
 
+The SHA256 value is successfully parsed out to Shuffle:
+
+![image](https://github.com/user-attachments/assets/b3162b4b-2ebe-40a3-909b-a4bb3491c442)
+
+Renamed the "Change_me" element to "SHA256 Regex"
+
+![image](https://github.com/user-attachments/assets/231d92c7-84b5-4f56-bb0e-1deb0cf12ec3)
+
