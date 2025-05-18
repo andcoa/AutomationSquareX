@@ -266,8 +266,11 @@ Created the rule by editing the local_rules.xml file in Custom Rules with the fo
 
 ![image](https://github.com/user-attachments/assets/160278b6-e0ff-437d-ab60-66c90d077821)
 
-To test the new rule, the "mimikatz" executable was renamed to "youareawesome.exe".
+To test the new rule, the "mimikatz" executable was renamed to "youareawesome".
 
 ![image](https://github.com/user-attachments/assets/956474a3-9e14-4869-ad3c-da37b8c67089)
+
+![image](https://github.com/user-attachments/assets/2a3878bb-7028-4a80-b70e-ee9a53cf1928)
+
 
 
