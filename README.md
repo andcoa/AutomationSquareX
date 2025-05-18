@@ -322,3 +322,13 @@ Renamed the "Change_me" element to "SHA256 Regex"
 
 ![image](https://github.com/user-attachments/assets/231d92c7-84b5-4f56-bb0e-1deb0cf12ec3)
 
+To be able to send the SHA256 value to Virus Total, first the API key was copied over to Shuffle:
+
+![image](https://github.com/user-attachments/assets/884fdd16-8c2f-4353-b0a2-b15187407249)
+
+![image](https://github.com/user-attachments/assets/378c362c-21ea-4712-b3a8-d3d2efe38fcb)
+
+Changed the Virustotal settings to "Get a hash report" and added the earlier Regex command under Id:
+
+![image](https://github.com/user-attachments/assets/46640f05-5a71-4991-8ccc-0479ef2abf91)
+
