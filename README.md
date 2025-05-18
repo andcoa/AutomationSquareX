@@ -282,7 +282,7 @@ To start automating processes, a new workflow was created in Shuffle.
 
 ![image](https://github.com/user-attachments/assets/d0861040-7a29-47ef-ac81-ed82f885c567)
 
-Added a Webhook and renamed it to Wazuh-Alerts. Copied the Webhook URI into the ossec config of the Wazuh Server VM.
+Added a Webhook and renamed it to Wazuh-Alerts. The Webhook URI will be copied into the ossec config of the Wazuh Server VM.
 
 ![image](https://github.com/user-attachments/assets/b7ee7ad4-9b0f-4740-b5c4-9611a80770a4)
 
@@ -290,10 +290,11 @@ In the "Change Me" icon, added the $exec argument.
 
 ![image](https://github.com/user-attachments/assets/da8dc03b-460d-49d0-bb84-5fc4f8cc3ba8)
 
-Configured Wazuh to connect to Shuffle by adding an integration tag in the ossec configuration file.
+Configured Wazuh to connect to Shuffle by adding an integration tag in the ossec configuration file. Added the Webhook URI from Shuffle and the rule ID created earlier in Wazuh (100002 for detecting Mimikatz).
 
 ![image](https://github.com/user-attachments/assets/83811803-adf3-4115-8fe6-4678f80ea183)
 
+![image](https://github.com/user-attachments/assets/b1aecb30-bcb5-468a-80cb-b06fa92f34cd)
 
 
 
