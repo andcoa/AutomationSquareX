@@ -294,7 +294,7 @@ Configured Wazuh to connect to Shuffle by adding an integration tag in the ossec
 
 ![image](https://github.com/user-attachments/assets/83811803-adf3-4115-8fe6-4678f80ea183)
 
-![image](https://github.com/user-attachments/assets/b1aecb30-bcb5-468a-80cb-b06fa92f34cd)
+![image](https://github.com/user-attachments/assets/c2c46475-996c-4368-9edc-15b8ed6993c0)
 
 
 
