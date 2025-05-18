@@ -2,7 +2,7 @@
 
 ## Objective
 
-Build a functional SOC automation lab integrating SquareX for browser-based threat containment, Wazuh for endpoint detection and telemetry collection, Gmail for phishing analysis, TheHive for case management and Digital Ocean as the cloud provider for hosting the EDR, demonstrating end-to-end alert triage and secure investigation workflows.
+Build a functional SOC automation lab integrating Shuffle for security workflow automation, Wazuh for endpoint detection and telemetry collection, Gmail for phishing analysis, TheHive for case management, and Digital Ocean as the cloud provider for hosting the EDR, demonstrating end-to-end alert triage and secure investigation workflows.
 
 ## Skills Learned
 
@@ -14,7 +14,7 @@ Build a functional SOC automation lab integrating SquareX for browser-based thre
 
 ## Tools Used
 
-- **SquareX**: Browser extension for privacy-enhanced browsing and disposable file analysis.
+- **Shuffle**: Security automation platform used to trigger workflows from Wazuh alerts and automate case creation in TheHive.
 - **TheHive**: Open-source SOC case management and alert triage system.
 - **Gmail**: Source of suspicious emails and phishing attempts.
 - **Wazuh**: Open-source SIEM for endpoint detection, file integrity monitoring, and log analysis.
@@ -327,4 +327,9 @@ To be able to send the SHA256 value to Virus Total, first the API key was copied
 Changed the Virustotal settings to "Get a hash report" and added the earlier Regex command under Id:
 
 ![image](https://github.com/user-attachments/assets/46640f05-5a71-4991-8ccc-0479ef2abf91)
+
+Virus Total successfully returned results.
+
+![image](https://github.com/user-attachments/assets/052339c0-6137-4351-80ed-23a80652d1a3)
+
 
