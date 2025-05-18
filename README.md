@@ -208,5 +208,46 @@ Restarted Wazuh to apply the changes.
 
 ![image](https://github.com/user-attachments/assets/3856ce65-fc63-483d-bcde-6416de3b7f90)
 
+Successfully set up Wazuh.
+
+![image](https://github.com/user-attachments/assets/334e53da-e289-4eb2-b67b-fd439b893767)
+
+Set up the Windows Security Exclusions to ignore the C folder in order to conduct a Mimikatz attack and generate telemtry.
+
+![image](https://github.com/user-attachments/assets/d70d83cd-d032-48aa-8f48-3dd56b89ea13)
+
+Downloaded Mimikatz from the following link: https://github.com/gentilkiwi/mimikatz/releases/tag/2.2.0-20220919
+
+![image](https://github.com/user-attachments/assets/53b97a16-0582-4943-aa95-da1c51c48d34)
+
+Extracted the Mimikatz zip and ran it in PowerShell.
+
+![image](https://github.com/user-attachments/assets/d27dbe56-a743-4988-9bbd-1478787be2b5)
+
+Edited the ossec file on the Wazuh server VM to ingest all logs in order to see the Mimikatz execution. Before editing, a backup file was created.
+
+![image](https://github.com/user-attachments/assets/2480aa61-2bfc-4714-a451-c8e5794fc84f)
+
+Changed the following settings to "yes".
+
+![image](https://github.com/user-attachments/assets/f7666c12-a657-437c-9402-1949e5333a06)
+
+Changed the filebeat.modules value to "true" in the filebeat file in order for Wazuh to start ingesting the logs.
+
+![image](https://github.com/user-attachments/assets/e9d37baf-69ae-4831-a1e8-d1cba2e03eed)
+
+![image](https://github.com/user-attachments/assets/249537a5-05c4-4789-8533-26e2d27b0219)
+
+In Wazuh -> Stack Management -> Index Patterns, created an index for all archives to be able to search all the logs.
+
+![image](https://github.com/user-attachments/assets/d96ea443-cf2a-4470-aa86-7f76a4bbd6e5)
+
+![image](https://github.com/user-attachments/assets/1327fdbe-833e-4f57-b517-eed30b9225b8)
+
+![image](https://github.com/user-attachments/assets/4242477f-ddf2-483f-987f-733bd9ac3eb9)
+
+Successfully set up the "wazuh-archives**" index
+
+![image](https://github.com/user-attachments/assets/fd73b134-49f5-4b5d-82b6-8457d83aa509)
 
 
