@@ -300,4 +300,17 @@ The information generated in Wazuh is successfully displayed in Shuffle.
 
 ![image](https://github.com/user-attachments/assets/2bbe9cb5-5f18-4d74-93eb-65fcccc55919)
 
+Configured Shuffle to send the hash values received from Wazuh to Virus Total.
+
+First, changed the Find Actions to "Regex capture group" and added the following Input Data:
+
+![image](https://github.com/user-attachments/assets/292e0c90-c043-4942-b10e-2888b937cd6a)
+
+In order to write the Regex, used ChatGPT to get the command based on the following hash from the Webhook result:
+
+![image](https://github.com/user-attachments/assets/cbce1ae6-07c8-4241-bb1c-49f5b98515ff)
+
+![image](https://github.com/user-attachments/assets/c69feec7-026b-41d6-bcb9-a3eccc6ff281)
+
+![image](https://github.com/user-attachments/assets/e20be0ac-da99-45b9-b7c1-811416fab8d9)
 
