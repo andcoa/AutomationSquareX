@@ -278,4 +278,22 @@ Mimikatz alert is successfully displayed in Wazuh.
 
 ![image](https://github.com/user-attachments/assets/8ce7662c-d795-4f9d-bc41-0e279aea0a96)
 
+To start automating processes, a new workflow was created in Shuffle.
+
+![image](https://github.com/user-attachments/assets/d0861040-7a29-47ef-ac81-ed82f885c567)
+
+Added a Webhook and renamed it to Wazuh-Alerts. Copied the Webhook URI into the ossec config of the Wazuh Server VM.
+
+![image](https://github.com/user-attachments/assets/b7ee7ad4-9b0f-4740-b5c4-9611a80770a4)
+
+In the "Change Me" icon, added the $exec argument.
+
+![image](https://github.com/user-attachments/assets/da8dc03b-460d-49d0-bb84-5fc4f8cc3ba8)
+
+Configured Wazuh to connect to Shuffle by adding an integration tag in the ossec configuration file.
+
+![image](https://github.com/user-attachments/assets/83811803-adf3-4115-8fe6-4678f80ea183)
+
+
+
 
