@@ -333,4 +333,7 @@ Virus Total successfully returned results.
 
 ![image](https://github.com/user-attachments/assets/052339c0-6137-4351-80ed-23a80652d1a3)
 
+65 scans detected the file as malicious.
+
+![image](https://github.com/user-attachments/assets/85abb9d5-e15f-4bca-905a-d04418c4722f)
 
