@@ -272,5 +272,10 @@ To test the new rule, the "mimikatz" executable was renamed to "youareawesome".
 
 ![image](https://github.com/user-attachments/assets/2a3878bb-7028-4a80-b70e-ee9a53cf1928)
 
+Mimikatz alert is successfully displayed in Wazuh.
+
+![image](https://github.com/user-attachments/assets/92fd5ec7-9418-4ad0-9975-958902b15532)
+
+![image](https://github.com/user-attachments/assets/8ce7662c-d795-4f9d-bc41-0e279aea0a96)
 
 
