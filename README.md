@@ -254,3 +254,14 @@ Re-ran Mimikatz and 2 logs appeared in Wazuh.
 
 ![image](https://github.com/user-attachments/assets/9e5dc409-7847-4422-bb4b-7fc7e30a13f1)
 
+Created a rule in Wazuh -> Management -> Rules -> Rules Files by copying and modifying the following rule:
+
+![image](https://github.com/user-attachments/assets/0f309d8e-b708-4296-bf27-638ea9fe2834)
+
+![image](https://github.com/user-attachments/assets/c4a69b3c-9999-4c5f-9fc0-4d37fd7d9488)
+
+![image](https://github.com/user-attachments/assets/b44a87a2-eb2f-4ddd-95aa-91122a5c3915)
+
+Edited the local_rules.xml file in Custom Rules with the following, assigning it the MITRE id of T1003 (logon detected):
+
+![image](https://github.com/user-attachments/assets/6634c282-b76b-483e-913c-bc9b8210215c)
