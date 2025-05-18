@@ -6,11 +6,12 @@ Build a functional SOC automation lab integrating Shuffle for security workflow 
 
 ## Skills Learned
 
-- **Secure Phishing Analysis**: Used SquareX to isolate and analyze suspicious emails without exposing the host system or alerting the sender.
-- **Disposable File Viewing**: Opened attachments and documents in a privacy-enhanced container to prevent malware execution and data leakage.
+- **Security Workflow Automation**: Used Shuffle to build playbooks that automate alert processing, case creation, and notifications across tools.
+- **Case Management Integration**: Automated ticket creation and evidence enrichment in TheHive from multiple sources using Shuffle..
 - **Alert Triage Workflow**: Integrated email-based alerts into TheHive to simulate real-world incident response cases.
-- **Browser-Based Threat Containment**: Explored web-based threats using SquareX containers that leave no forensic artifacts or logs.
 - **Endpoint Detection & Telemetry**: Deployed Wazuh agents to collect security telemetry from endpoints for monitoring and correlation.
+- **EDR Alert Correlation**: Integrated Wazuh alerts with TheHive through Shuffle to simulate real-time endpoint detection and response.
+- **SOC Process Familiarity**: Practiced full alert lifecycle handling with automation, case documentation, and cross-tool integration in a simulated SOC environment.
 
 ## Tools Used
 
