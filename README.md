@@ -337,3 +337,22 @@ Virus Total successfully returned results.
 
 ![image](https://github.com/user-attachments/assets/85abb9d5-e15f-4bca-905a-d04418c4722f)
 
+Created a new organization named "Autolab" in TheHive and two users, Bobby (normal) and SOAR (service):
+
+![image](https://github.com/user-attachments/assets/8ebf58dc-74e5-4e5f-8b64-96745eb59675)
+
+![image](https://github.com/user-attachments/assets/875209e0-8193-4aa2-a45a-ef28df5e260e)
+
+Created an API key for the SOAR user:
+
+![image](https://github.com/user-attachments/assets/468028dc-5524-46a6-a4fb-9c2a468aba26)
+
+Copied the API and TheHive address to Shuffle to authenticate with the service:
+
+![image](https://github.com/user-attachments/assets/6cd11320-a99a-4f10-bec5-b83e8374cda9)
+
+Edited TheHive app with the following settings:
+
+![image](https://github.com/user-attachments/assets/8717268d-0ac1-4a29-abc0-59f10d6a4fab)
+
+
