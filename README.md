@@ -351,7 +351,7 @@ Copied the API and TheHive address to Shuffle to authenticate with the service:
 
 ![image](https://github.com/user-attachments/assets/6cd11320-a99a-4f10-bec5-b83e8374cda9)
 
-Edited TheHive app with the following settings:
+Edited TheHive app on Shuffle with the following settings:
 
 ![image](https://github.com/user-attachments/assets/bf90f901-1c47-4fa9-8ff0-51fec48c7fce)
 
