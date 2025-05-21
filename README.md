@@ -7,7 +7,7 @@ Build a functional SOC automation lab integrating Shuffle for security workflow 
 ## Skills Learned
 
 - **Security Workflow Automation**: Used Shuffle to build playbooks that automate alert processing, case creation, and notifications across tools.
-- **Case Management Integration**: Automated ticket creation and evidence enrichment in TheHive from multiple sources using Shuffle..
+- **Case Management Integration**: Automated ticket creation and evidence enrichment in TheHive from multiple sources using Shuffle.
 - **Alert Triage Workflow**: Integrated email-based alerts into TheHive to simulate real-world incident response cases.
 - **Endpoint Detection & Telemetry**: Deployed Wazuh agents to collect security telemetry from endpoints for monitoring and correlation.
 - **EDR Alert Correlation**: Integrated Wazuh alerts with TheHive through Shuffle to simulate real-time endpoint detection and response.
@@ -366,5 +366,15 @@ After running the workflow in Shuffle, TheHive successfully generated the alerts
 ![image](https://github.com/user-attachments/assets/2551b8e9-81d8-4b98-85c3-e01d7f24dc33)
 
 ![image](https://github.com/user-attachments/assets/997c5e29-cd84-422b-9397-e1c370c087f0)
+
+Added the email app and edited it accordingly:
+
+![image](https://github.com/user-attachments/assets/03d0aa87-50fd-4c11-ae2e-973d048bff2c)
+
+![image](https://github.com/user-attachments/assets/88e2069c-f822-4706-969d-d9a4bc58a942)
+
+Received the automated email from Shuffle:
+
+![image](https://github.com/user-attachments/assets/3077300c-499a-4ada-bb24-03afb5025558)
 
 
