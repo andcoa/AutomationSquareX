@@ -357,4 +357,8 @@ Edited TheHive app on Shuffle with the following settings:
 
 ![image](https://github.com/user-attachments/assets/48b93567-8ad4-4aea-84ee-92c8bef85054)
 
+In Digital Ocean, added a custom inbound rule to allow connection to port 9000 in order for TheHive to integrate with Shuffle:
+
+![image](https://github.com/user-attachments/assets/505d5693-e717-4654-9589-6866a97f72de)
+
 
