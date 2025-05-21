@@ -365,5 +365,6 @@ After running the workflow in Shuffle, TheHive successfully generated the alerts
 
 ![image](https://github.com/user-attachments/assets/2551b8e9-81d8-4b98-85c3-e01d7f24dc33)
 
+![image](https://github.com/user-attachments/assets/997c5e29-cd84-422b-9397-e1c370c087f0)
 
 
