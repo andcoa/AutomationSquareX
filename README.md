@@ -351,14 +351,19 @@ Copied the API and TheHive address to Shuffle to authenticate with the service:
 
 ![image](https://github.com/user-attachments/assets/6cd11320-a99a-4f10-bec5-b83e8374cda9)
 
-Edited TheHive app on Shuffle with the following settings:
+Edited TheHive app on Shuffle with the following JSON:
 
-![image](https://github.com/user-attachments/assets/bf90f901-1c47-4fa9-8ff0-51fec48c7fce)
+![image](https://github.com/user-attachments/assets/9652a497-4328-409f-8a86-6d8cd855461c)
 
-![image](https://github.com/user-attachments/assets/48b93567-8ad4-4aea-84ee-92c8bef85054)
+![image](https://github.com/user-attachments/assets/a56fa625-6c4e-4832-99ee-181c4d09309b)
 
 In Digital Ocean, added a custom inbound rule to allow connection to port 9000 in order for TheHive to integrate with Shuffle:
 
 ![image](https://github.com/user-attachments/assets/505d5693-e717-4654-9589-6866a97f72de)
+
+After running the workflow in Shuffle, TheHive successfully generated the alerts:
+
+![image](https://github.com/user-attachments/assets/2551b8e9-81d8-4b98-85c3-e01d7f24dc33)
+
 
 
