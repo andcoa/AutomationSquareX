@@ -90,7 +90,7 @@ Created a new VM that will be used for installing TheHive and added it to the fi
 
 ![image](https://github.com/user-attachments/assets/02e65512-1296-48db-9237-4c7ef45c7370)
 
-On TheHive VM, installed dependencies, Java, Cassandra, Elasticsearch and TheHive using the following commands:
+On TheHive VM, installed dependencies, Java (TheHive dependency), Cassandra (database), Elasticsearch (search/indexing) and TheHive using the following commands:
 
 ![image](https://github.com/user-attachments/assets/e71856e0-46aa-4e98-9c1f-22835ef98fbc)
 
